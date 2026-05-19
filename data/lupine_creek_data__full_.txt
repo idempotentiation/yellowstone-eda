@@ -1,0 +1,151 @@
+#------------------------------------------------- WARNING --------------------------------------------
+#
+# The data you have obtained from this automated Natural Resources Conservation Service
+# database are subject to revision regardless of indicated Quality Assurance level.
+# Data are released on condition that neither the NRCS nor the United States Government
+# may be held liable for any damages resulting from its use.
+#
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor
+# conversion equation and varies through the output range. Solutions are in development.
+# For more information go to Air Temperature Bias Correction.
+#
+# Help and Tutorials: https://www.nrcs.usda.gov/sites/default/files/2023-03/Report%20Generator%20Help%20Guide.pdf
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+#
+# Support Contact: usdafpacbc@servicenowservices.com
+#
+#------------------------------------------------------------------------------------------------------
+#
+# Reporting Frequency: Monthly
+# Date Range: Apr 1923 to Apr 2025
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10E01: Lupine Creek, WY
+#
+# Data items provided in this file:
+#
+# Element Name           Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description
+# Snow Water Equivalent  Value       None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously
+# Snow Depth             Value       None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth
+# Snow Density           Value       None           Instantaneous - Start of Month  N/A        Percent            N/A           SNDN          The mass of snow per unit volume, expressed as a percent of water content
+#
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  K      Estimate            Estimate
+#  C      Correction          A different equation has been applied to the original sensor voltage
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+#  M      Missing             Value is missing
+#
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+#
+#------------------------------------------------------------------------------------------------------
+#
+# Lupine Creek (10E01)
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 7400 ft
+# Reporting Frequency: Monthly; Date Range: Apr 1923 to Apr 2025
+#
+# As of: Apr 3, 2026, 11:58:44 AM GMT-08:00
+#
+Date,Lupine Creek (10E01) Snow Water Equivalent (in) Start of Month Values,Lupine Creek (10E01) Snow Depth (in) Start of Month Values
+Apr 1938,11.8,39
+Apr 1939,8.6,32
+Apr 1940,7.0,22
+Apr 1941,5.4,23
+Apr 1942,7.6,30
+Apr 1943,17.4,50
+Apr 1944,6.1,
+Apr 1945,4.4,21
+Apr 1946,13.1,39
+Apr 1947,9.0,36
+Apr 1948,10.5,40
+Apr 1949,14.7,49
+Apr 1950,11.6,39
+Apr 1951,10.4,35
+Apr 1952,16.0,52
+Apr 1953,8.4,30
+Apr 1954,12.6,44
+Apr 1955,11.6,43
+Apr 1956,13.2,48
+Apr 1957,10.8,43
+Apr 1958,6.8,28
+Apr 1959,9.4,33
+Apr 1960,6.4,21
+Apr 1961,8.2,27
+Apr 1962,12.0,45
+Apr 1963,3.6,25
+Apr 1964,8.3,34
+Apr 1965,11.8,47
+Apr 1966,7.5,27
+Apr 1967,14.4,47
+Apr 1968,9.5,32
+Apr 1969,10.1,35
+Apr 1970,10.8,38
+Apr 1971,12.8,44
+Apr 1972,13.3,37
+Apr 1973,7.5,24
+Apr 1974,17.0,46
+Apr 1975,10.9,41
+Apr 1976,13.7,45
+Apr 1977,4.6,23
+Apr 1978,9.3,27
+Apr 1979,10.6,39
+Apr 1980,9.3,38
+Apr 1981,5.2,19
+Apr 1982,8.7,45
+Apr 1983,9.7,33
+Apr 1984,7.4,30
+Apr 1985,10.0,44
+Apr 1986,8.2,20
+Apr 1987,5.0,25
+Apr 1988,5.9,21
+Apr 1989,12.2,40
+Apr 1990,8.8,29
+Apr 1991,6.7,28
+Apr 1992,7.3,23
+Apr 1993,8.2,24
+Apr 1994,6.6,26
+Apr 1995,11.8,39
+Apr 1996,9.6,35
+Apr 1997,12.3,43
+Apr 1998,8.0,24
+Apr 1999,11.6,36
+Apr 2000,8.9,28
+Apr 2001,3.8,12
+Apr 2002,7.2,31
+Apr 2003,6.6,30
+Apr 2004,0.5,17
+Apr 2005,5.5,21
+Apr 2006,5.0,19
+Apr 2007,1.2,4
+Apr 2008,8.1,
+Apr 2009,6.0,23
+Apr 2010,4.8,20
+Apr 2011,10.2,34
+Apr 2012,4.1,12
+Apr 2013,7.0,24
+Apr 2014,10.4,38
+Apr 2015,0.0,0
+Apr 2016,8.1,27
+Apr 2017,5.2,14
+Apr 2018,9.2,32
+Apr 2019,10.7,33
+Apr 2020,,
+Apr 2021,6.7,31
+Apr 2022,2.4,7
+Apr 2023,11.0,48
+Apr 2024,7.2,27
+Apr 2025,5.4,24
