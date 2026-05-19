@@ -23,6 +23,6 @@ pip install pandas matplotlib seaborn scipy statsmodels odfpy
 
 ## Structure
 
-yellowstone_eda.ipynb   — main analysis notebook
-data/                   — raw data files as originally obtained
-outputs/                — generated figures
+- `yellowstone_eda.ipynb`   - main analysis notebook
+- `data/`                   - raw data files as originally obtained
+- `outputs/`                - generated figures
